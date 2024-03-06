@@ -1,0 +1,3 @@
+/home/xyr/Desktop/Myshell/build/CMakeFiles/rebuild_cache.dir
+/home/xyr/Desktop/Myshell/build/CMakeFiles/MyShell.dir
+/home/xyr/Desktop/Myshell/build/CMakeFiles/edit_cache.dir

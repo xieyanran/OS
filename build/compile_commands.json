@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/xyr/Desktop/Myshell/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/MyShell.dir/main.cpp.o -c /home/xyr/Desktop/Myshell/main.cpp",
+  "file": "/home/xyr/Desktop/Myshell/main.cpp"
+}
+]
